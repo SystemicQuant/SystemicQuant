@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🏛️ Systemic Quant | Algorithmic Architect
 
-<!--
-**SystemicQuant/SystemicQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Ex-TCS Automation Engineer | Building Institutional Trading Bridges*
+I specialize in the intersection of **Python, AI Workflows, and High-Probability Market Execution.** My mission is to build self-healing, emotionless systems for global and domestic markets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Tech Stack
+- **Execution:** DhanHQ (India Options) | MetaTrader 5 (Global Indices)
+- **Engine:** Python (Pandas, Asyncio, NumPy)
+- **Infrastructure:** AI-First Development, CI/CD with GitHub Actions, Environment Isolation
+
+### 🚀 Projects in Progress
+- **Dhan-MT5-Bridge:** A modular Python engine for seamless cross-platform execution.
+- **RiskGuard-Core:** Institutional-grade drawdown and risk management logic.
+
+### 📬 Connect with the System
+- [Telegram Channel](YOUR_LINK_HERE) - *Live Logic Logs & System Updates*
+
+> "Luck is what happens when preparation meets opportunity. Systems are how you catch it."
