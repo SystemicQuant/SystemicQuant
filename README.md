@@ -15,6 +15,6 @@ I specialize in the intersection of **Python, AI Workflows, and High-Probability
 - **RiskGuard-Core:** Institutional-grade drawdown and risk management logic.
 
 ### 📬 Connect with the System
-- [Telegram Channel](YOUR_LINK_HERE) - *Live Logic Logs & System Updates*
+- [Telegram Channel](https://t.me/StstemicQuant) - *Live Logic Logs & System Updates*
 
 > "Luck is what happens when preparation meets opportunity. Systems are how you catch it."
